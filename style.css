@@ -1,0 +1,102 @@
+body {
+    background-color: turquoise;
+}
+h1 {
+    color: red; 
+    font-size: 70px;
+    text-align: center;
+    font-family: "Aztec Regular";
+
+}
+img {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+h1 {
+    color: red;
+    font-size: 50px;
+    border: 5px solid red;
+    text-align: center;
+    font-family: "Aztec Regular";
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: pink;
+    width: 700px;
+    height: 1200px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.card-image {
+    height: 700px;
+    margin-bottom: 20px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+.bottle-1 {
+    background-image: url('images/Aztec_Axolotl_Hab_Sauce_Beach.jpg')
+}
+.bottle-2 {
+    background-image: url('images/Aztec_Axolotl_Sauce_Beach_3.jpg') 
+}
+.bottle-3 {
+    background-image: url('images/Aztec_Axolotl_Sauce_Beach_2.jpg')
+}
+h2 {
+ color: red;
+    font-size: 50px;
+    border: 5px solid red;
+    text-align: center;
+    font-family: "Aztec Regular";   
+}
+.card h2 {
+    padding: 10px;
+}
+
+.card p {
+    padding: 10px;
+    margin-bottom: 35px;
+    text-size: 50px;
+    text-wrap: wrap;
+    text-align: center;
+    font-family: "Aztec Regular";
+    font-size: 50 px;
+
+}
+.card a {
+    font-family: "Aztec Regular";
+    padding: 25px 30px;
+    display: block;
+    text-align: center;
+    text-size: 30px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: aquamarine;
+    color: yellow;
+    justify-content: center;
+    align-self: center;
+    border-radius: 5px;
+    border: 0;
+    padding: 10px 15px;
+    font-size: 30px;
+    font-family: "Aztec Regular;"
+    font-weight: 600;
+    text-align: center;
+}
+button:hover {
+    background-color: yellow;
+    transition: .3s ease all;
+    transform: translateY(-5px);
+}
