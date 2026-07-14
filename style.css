@@ -40,13 +40,13 @@ h1 {
     border-radius: 15px 15px 0 0;
 }
 .bottle-1 {
-    background-image: url('images/Aztec_Axolotl_Hab_Sauce_Beach.jpg')
+    background-image: url("images/Aztec_Axolotl_Hab_Sauce_Beach.jpg")
 }
 .bottle-2 {
-    background-image: url('images/Aztec_Axolotl_Sauce_Beach_3.jpg') 
+    background-image: url("images/Aztec_Axolotl_Sauce_Beach_3.jpg") 
 }
 .bottle-3 {
-    background-image: url('images/Aztec_Axolotl_Sauce_Beach_2.jpg')
+    background-image: url("images/Aztec_Axolotl_Sauce_Beach_2.jpg")
 }
 h2 {
  color: red;
