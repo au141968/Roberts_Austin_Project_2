@@ -29,6 +29,7 @@ img {
 }
 h1 {
     color: red;
+    background-color: chartreuse;
     font-size: 50px;
     border: 5px solid red;
     text-align: center;
@@ -117,4 +118,41 @@ button:hover {
     background-color: yellow;
     transition: .3s ease all;
     transform: translateY(-5px);
+}
+
+.footer-container {
+    background-color: chartreuse;
+    padding-bottom: 4rem;
+}
+
+.footer {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.footer-heading {
+    display: flex;
+    flex-direction: column;
+    margin-right: 4rem;
+}
+
+.footer-heading h2 {
+    margin-bottom: 4rem;
+    background-color: pink;
+}
+
+.footer-heading a {
+    color: red;
+    font-family: "Aztec Regular";
+    text-decoration: none;
+    margin-bottom: 1.5rem;
+}
+
+.footer-heading a:hover {
+    color: darkblue;
+    transition: 0.3s ease-out;
 }
