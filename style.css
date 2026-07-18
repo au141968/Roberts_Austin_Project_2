@@ -11,7 +11,7 @@ body {
 
 @font-face {
     font-family: 'Aztec';
-    src: url(/assets/fonts/Aztec-Regular.ttf) format('truetype');
+    src: url("assets/fonts/Aztec-Regular.ttf") format("truetype");
 }
 
 h1 {
