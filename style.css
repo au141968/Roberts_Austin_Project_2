@@ -10,8 +10,8 @@ body {
 }
 
 @font-face {
-    font-family: "Aztec Regular";
-    src: url(/assets/fonts/Aztec-Regular/Aztec-Regular.ttf);
+    font-family: 'Aztec';
+    src: url(/assets/fonts/Aztec-Regular.ttf) format('truetype');
 }
 
 h1 {
