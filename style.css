@@ -4,6 +4,7 @@ body {
 
 @media (max-width: 900px) {
     .container {
+        display: grid;
         grid-template-areas: 
         "header";
     }
@@ -87,7 +88,6 @@ h2 {
     text-wrap: wrap;
     text-align: center;
     font-family: "Aztec";
-    font-size: 50 px;
 
 }
 .card a {
