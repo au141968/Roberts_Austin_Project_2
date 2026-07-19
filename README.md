@@ -72,4 +72,4 @@ https://resourceboy.com/fonts/aztec-font/
 ## Future Improvements
 What would you improve or add with more time?
 
-#### I would add a footer that will include link buttons for: Contact Us, Recipes, Shipping, About Us, and social media links.
+#### I would center the images while looking through a smaller screen such as a cell phone.
